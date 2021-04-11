@@ -1,0 +1,11 @@
+C:\Users\ahemaid\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csprojAssemblyReference.cache
+C:\Users\ahemaid\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ahemaid\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfo.cs
+C:\Users\ahemaid\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.exe
+C:\Users\ahemaid\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.deps.json
+C:\Users\ahemaid\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.json
+C:\Users\ahemaid\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.dev.json
+C:\Users\ahemaid\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+C:\Users\ahemaid\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+C:\Users\ahemaid\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+C:\Users\ahemaid\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
